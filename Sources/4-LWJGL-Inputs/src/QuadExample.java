@@ -28,8 +28,8 @@ public class QuadExample
 {
 	public static final int DRAW_DISTANCE_LENGTH_100 = 50;
 	// The height and width that will be used to draw the screen.
-	public static int DISPLAY_HEIGHT = 600;
-	public static int DISPLAY_WIDTH  = 800;
+	public static final int DISPLAY_HEIGHT = 600;
+	public static final int DISPLAY_WIDTH  = 800;
 	
 	/**
 	 * <h2>
