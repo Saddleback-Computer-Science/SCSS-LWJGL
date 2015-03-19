@@ -8,3 +8,6 @@
 
 ###OpenGL Man Pages
 -http://www.cs.rutgers.edu/~decarlo/428/glman.html
+
+###Installing LWJGL & Eclipse
+-http://wiki.lwjgl.org/index.php?title=Setting_Up_LWJGL_with_Eclipse
